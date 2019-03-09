@@ -4,9 +4,7 @@
     <list default="true" id="ae61ea27-a3fc-470f-acca-c4624a7793a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/U3DIntro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/Unity3D/U3DIntro.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/UnityEditor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/Unity3D/UnityEditor.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/UnityPreferences.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/Unity3D/UnityPreferences.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,12 +17,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="677">
-                <caret line="265" column="23" lean-forward="true" selection-start-line="265" selection-start-column="23" selection-end-line="265" selection-end-column="23" />
+              <first_editor relative-caret-position="5610">
+                <caret line="242" column="8" selection-start-line="242" selection-start-column="8" selection-end-line="242" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="550">
+                <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,7 +42,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/images/Unity3D/EnablePlayMode.jpg">
+        <entry file="file://$PROJECT_DIR$/source/images/Unity3D/ChangeToFunc.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/images/Unity3D/TestCaseInEditor.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/images/Unity3D/UIStateChart.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -69,15 +89,15 @@
         <option value="$PROJECT_DIR$/source/_posts/测试的文章.md" />
         <option value="$PROJECT_DIR$/source/_posts/Unity3D单元测试框架介绍.md" />
         <option value="$PROJECT_DIR$/source/_posts/Unity3D结合实际项目实现单元测试.md" />
-        <option value="$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
-    <option name="y" value="116" />
+    <option name="x" value="270" />
+    <option name="y" value="195" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -87,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,14 +155,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -174,12 +194,13 @@
       <workItem from="1551541212675" duration="138000" />
       <workItem from="1551619120603" duration="1026000" />
       <workItem from="1551662966393" duration="6851000" />
-      <workItem from="1551669962129" duration="32490000" />
+      <workItem from="1551669962129" duration="33156000" />
+      <workItem from="1552100799315" duration="8153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40505000" />
+    <option name="totallyTimeSpent" value="49324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -208,18 +229,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.deploy_git/css/fonts/fontawesome-webfont.eot">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/css/fonts/fontawesome-webfont.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/css/images/banner.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/css/fonts/fontawesome-webfont.eot" />
+    <entry file="file://$PROJECT_DIR$/.deploy_git/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/.deploy_git/css/fonts/fontawesome-webfont.svg" />
+    <entry file="file://$PROJECT_DIR$/.deploy_git/css/images/banner.jpg" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8" />
@@ -259,31 +272,10 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/hexo-theme-next/layout/_layout.swig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/hexo-theme-next/layout/archive.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/categories/index-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/hexo-theme-next/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="100" column="23" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/hexo-theme-next/layout/_layout.swig" />
+    <entry file="file://$PROJECT_DIR$/themes/next/hexo-theme-next/layout/archive.swig" />
+    <entry file="file://$PROJECT_DIR$/source/categories/index-1.md" />
+    <entry file="file://$PROJECT_DIR$/themes/next/hexo-theme-next/_config.yml" />
     <entry file="file://$PROJECT_DIR$/themes/landscape/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -336,9 +328,7 @@
     <entry file="file://$PROJECT_DIR$/.deploy_git/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/U3DIntro.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/U3DIntro.gif" />
     <entry file="file://$PROJECT_DIR$/source/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -356,16 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="264">
-            <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/images/Unity3D/Testing.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -375,11 +355,30 @@
     <entry file="file://$PROJECT_DIR$/source/images/Unity3D/EnablePlayMode.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/Unity3D/TestCaseInEditor.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/Unity3D/UIStateChart.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/Unity3D/ChangeToFunc.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="677">
-            <caret line="265" column="23" lean-forward="true" selection-start-line="265" selection-start-column="23" selection-end-line="265" selection-end-column="23" />
+          <first_editor relative-caret-position="5610">
+            <caret line="242" column="8" selection-start-line="242" selection-start-column="8" selection-end-line="242" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="550">
+            <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
