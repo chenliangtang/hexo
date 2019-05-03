@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae61ea27-a3fc-470f-acca-c4624a7793a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/4. CentOS7安装Python3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/5. 使用 Springboot 编写 Helloworld 应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/6. 容器化部署 Springboot 应用.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/3. 项目管理知识总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/3. 项目管理知识总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/4. CentOS7安装Python3.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/4. CentOS7安装Python3.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="22">
-                <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              <first_editor relative-caret-position="66">
+                <caret line="3" column="21" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,11 +32,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/5. 使用 Springboot 编写 Helloworld 应用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="22">
-                <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              <first_editor relative-caret-position="66">
+                <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/6. 容器化部署 Springboot 应用.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="243">
+                <caret line="192" column="240" selection-start-line="192" selection-start-column="240" selection-end-line="192" selection-end-column="240" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/4. CentOS7安装Python3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-3489">
+                <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,41 +75,6 @@
                 <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next/.stylintrc">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/4. CentOS7安装Python3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="111">
-                <caret line="68" selection-start-line="68" selection-end-line="68" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3410">
-              <caret line="224" column="10" selection-start-line="224" selection-start-column="10" selection-end-line="224" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next/languages/zh-Hans.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -133,10 +122,14 @@
         <option value="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" />
         <option value="$PROJECT_DIR$/themes/next/_config.yml" />
         <option value="$PROJECT_DIR$/themes/next/languages/zh-Hans.yml" />
-        <option value="$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md" />
         <option value="$PROJECT_DIR$/source/_posts/2. Unity3D结合实际项目实现单元测试.md" />
         <option value="$PROJECT_DIR$/source/_posts/3. 项目管理知识总结.md" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/source/_posts/4. CentOS7安装Python3.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md" />
+        <option value="$PROJECT_DIR$/source/_posts/5. 容器化部署 Springboot 应用.md" />
+        <option value="$PROJECT_DIR$/source/_posts/5. 使用 Springboot 编写 Helloworld 应用.md" />
+        <option value="$PROJECT_DIR$/source/_posts/6. 容器化部署 Springboot 应用.md" />
       </list>
     </option>
   </component>
@@ -151,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,26 +172,14 @@
             <path>
               <item name="hexo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hexo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="next" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="next" type="462c0819:PsiDirectoryNode" />
-              <item name="languages" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,13 +190,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Blogs\hexo\source\images\Unity3D" />
-      <recent name="E:\Blogs\hexo\source" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Coding\Blogs\hexo\source\_posts" />
       <recent name="E:\Blogs\hexo\source\_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Blogs\hexo\source\images\Unity3D" />
+      <recent name="E:\Blogs\hexo\source" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,18 +230,20 @@
       <workItem from="1554684532178" duration="4537000" />
       <workItem from="1554812777053" duration="24000" />
       <workItem from="1556682454824" duration="1090000" />
-      <workItem from="1556700838289" duration="15898000" />
+      <workItem from="1556700838289" duration="16674000" />
+      <workItem from="1556787282641" duration="14739000" />
+      <workItem from="1556850831903" duration="11273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73100000" />
+    <option name="totallyTimeSpent" value="99888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21299872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23294723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -421,13 +405,6 @@
     <entry file="file://$PROJECT_DIR$/themes/next/.travis.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3410">
-          <caret line="224" column="10" selection-start-line="224" selection-start-column="10" selection-end-line="224" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -435,10 +412,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/Unity3D/UIStateChart.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/.javascript_ignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/.stylintrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4928">
+          <caret line="224" column="10" selection-start-line="224" selection-start-column="10" selection-end-line="224" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/languages/zh-Hans.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="528">
           <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="65" lean-forward="true" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -446,14 +449,21 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="22">
-            <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/Unity3D/UIStateChart.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/4. CentOS7安装Python3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-3489">
+            <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/3. 项目管理知识总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -465,27 +475,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/.javascript_ignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/.stylintrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1. Unity3D单元测试框架介绍.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <first_editor relative-caret-position="66">
+            <caret line="3" column="21" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/4. CentOS7安装Python3.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/5. 使用 Springboot 编写 Helloworld 应用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="111">
-            <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <first_editor relative-caret-position="66">
+            <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/6. 容器化部署 Springboot 应用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="243">
+            <caret line="192" column="240" selection-start-line="192" selection-start-column="240" selection-end-line="192" selection-end-column="240" />
           </first_editor>
           <second_editor />
         </state>
